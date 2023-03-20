@@ -1,0 +1,133 @@
+$main-color:#f6b0ab;
+ $secondary-color:#6f3c2e;
+
+
+.order-summary{
+    border: 1px solid  $secondary-color;
+    // padding: 2%;
+    color:$secondary-color;
+    h6{
+        border-bottom: 1px solid $secondary-color;
+        margin-top:1rem;
+        padding-bottom:1rem;
+        font-weight:700;
+        padding-left:4%;
+        padding-right:4%;
+
+
+        // margin-left:4%;
+
+        color:$secondary-color
+
+    }
+    .Totla-price{
+        padding-right: 3%;
+    }
+    .sub-price{
+        padding-right: 3%;
+    }
+}
+
+.delivered-date{
+    border: 1px solid  $secondary-color;
+    margin-top: 2%;
+    padding: 1%;
+    text-align: center;
+    color:$secondary-color
+
+}
+.proceed-btn{
+    width: 100%;
+    background-color:$main-color;
+    font-weight: 400;
+    color:$secondary-color;
+}
+.proceed-btn:hover{
+    background-color:$secondary-color;
+    color:white;
+
+}
+.CONTINUE-btn{
+    border: 1.4px solid  $secondary-color;
+    width: 100%;
+    color:$secondary-color
+
+}
+.CONTINUE-btn:hover{
+    border: 1.4px solid  $secondary-color;
+
+}
+
+.Remove-btn{
+    width: 100%;
+    font-weight: 500;
+    text-decoration: underline;
+}
+.increase-quan{
+    background-color:white;
+    color:$secondary-color;
+    font-size: 1.5rem;
+
+}
+.decrease-quan{
+    background-color:white;
+    color: rgb(123, 123, 123);
+    font-size: 1.5rem;
+
+}
+.span-count{
+    background-color:white;
+    padding-left: 10%;
+    padding-right: 10%;
+    // padding-bottom: 1%;
+    
+    box-shadow:1px  1px 1px #8d8c8c8d;
+    font-size: 1.1rem;
+    
+}
+
+
+.cart{
+    // height: 50vh;
+    // width: 100%;
+    margin: auto;
+    // color: $secondary-color;
+}
+.order-title{
+    color: $secondary-color;
+    font-weight: bold;
+}
+.order-price{
+    color: $secondary-color;
+    font-weight: bold; 
+}
+.order-details-Quantity{
+    color: $secondary-color;
+    font-weight: 500;
+}
+.delete-cart{
+    // margin-left: 34%;
+    color:$main-color;
+    font-size:120%;
+    cursor: pointer;
+}
+.close-btn{
+background-color:$main-color;
+
+}
+.close-btn:hover{
+    background-color:$secondary-color;
+    color: aliceblue;
+
+}
+.done-btn{
+    background-color:$secondary-color;
+    color: aliceblue;
+}
+.done-btn:hover{
+    background-color:$main-color;
+
+}
+.paybg{
+    background-color:#f6ede8;
+}
