@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd89762a.css",
+    "main.js": "/static/js/main.a2190382.js",
+    "static/js/787.c816547e.chunk.js": "/static/js/787.c816547e.chunk.js",
+    "static/media/Elabd-Logo.png": "/static/media/Elabd-Logo.fe7bd9f87f6eaa7f0b86.png",
+    "static/media/favicon.png": "/static/media/favicon.fe7bd9f87f6eaa7f0b86.png",
+    "index.html": "/index.html",
+    "main.dd89762a.css.map": "/static/css/main.dd89762a.css.map",
+    "main.a2190382.js.map": "/static/js/main.a2190382.js.map",
+    "787.c816547e.chunk.js.map": "/static/js/787.c816547e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd89762a.css",
+    "static/js/main.a2190382.js"
+  ]
+}
